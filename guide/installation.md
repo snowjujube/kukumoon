@@ -9,15 +9,9 @@
 
 ## 使用脚手架初始化项目
 
-推荐直接使用脚手架，只需几条简单指令，即可快速生成项目（npm >=6.1.0）:
+还未支持
 
-```shell script
-$ tnpm install -g kukumoon-cli
-$ kukumoon init example-project
-$ cd example-project
-```
-
-当然，你也可以选择直接clone一份现成的示例应用：
+你也可以选择直接clone一份现成的示例应用：
 
 ```shell script
 $ git clone https://git.code.oa.com/kukumoon/kukumoon-demo
