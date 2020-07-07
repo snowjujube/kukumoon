@@ -14,7 +14,7 @@
 你也可以选择直接clone一份现成的示例应用：
 
 ```shell script
-$ git clone https://github.com/snowjujbe/kukumoon-demo
+$ git clone https://github.com/snowjujube/kukumoon-demo
 $ cd kukumoon-demo && npm install
 ```
 
