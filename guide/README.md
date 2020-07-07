@@ -1,7 +1,9 @@
 # Kukumoon
 > 构建更轻便灵活的Web服务
 
-[![Chat](https://img.shields.io/badge/Contact-@kkukuli-7289da.svg?style=for-the-badge)](#)
+[![npm](https://img.shields.io/npm/v/@kukumoon/kukumoon-core)](https://www.npmjs.com/package/@kukumoon/kukumoon-core)
+
+[![GitHub Last Commmit](https://img.shields.io/github/last-commit/snowjujube/kukumoon)](https://github.com/snowjujube/kukumoon)
 
 ## Koa
 
